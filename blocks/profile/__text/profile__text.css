@@ -1,0 +1,7 @@
+.profile__text {
+    color: white;
+    font-size: 18px;
+    line-height: 22px;
+    margin: 0;
+    grid-area: text;
+}
