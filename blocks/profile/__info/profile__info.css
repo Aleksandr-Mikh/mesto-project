@@ -3,5 +3,5 @@
     grid-template-areas:
     "title edit-button"
     "text text";
-    gap: 9px 18px;
+    gap: 6px 18px;
 }
