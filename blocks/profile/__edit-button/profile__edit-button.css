@@ -2,7 +2,6 @@
     width: 24px;
     height: 24px;
     background-image: url(../../../images/Edit_Button.svg);
-    background-size: 10px 10px;
     background-color: transparent;
     background-position: center;
     background-repeat: no-repeat;
@@ -11,6 +10,7 @@
     grid-area: edit-button;
     align-self: center;
     box-sizing: border-box;
+    cursor: pointer;
 }
 
 .profile__edit-button:hover {

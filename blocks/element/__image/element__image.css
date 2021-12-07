@@ -1,8 +1,6 @@
 .element__image {
-    max-width: 100%;
+    width: 100%;
     min-height: 282px;
-    background-image: url(../../../images/kirill-pershin-1088404-unsplash.jpg);
-    background-size: 100%;
     object-fit: cover;
-    object-position: 100% 100%;
+    object-position: center;
 }
