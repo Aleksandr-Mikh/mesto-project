@@ -6,7 +6,7 @@
 
 Используемые технологии: HTML, CSS, БЭМ, Flexbox, Grid Layout, адаптивная верстка, popup, форма.
 
-Ссылка на проект - .
+Ссылка на проект - https://aleksandr-mikh.github.io/mesto-project/
 
 **Figma**
 
