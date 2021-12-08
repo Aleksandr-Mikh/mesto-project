@@ -9,3 +9,11 @@
     text-overflow: ellipsis;
     white-space: nowrap;
 }
+
+@media screen and (max-width: 540px) {
+    .profile__text {
+        font-size: 14px;
+        line-height: 17px;
+        margin-bottom: 33px;
+    }
+}

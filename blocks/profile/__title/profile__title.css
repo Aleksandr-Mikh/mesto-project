@@ -10,3 +10,16 @@
     text-overflow: ellipsis;
     white-space: nowrap;
 }
+
+@media screen and (max-width: 767px) {
+    .profile__title {
+        font-size: 27px;
+        line-height: 33px;
+    }
+}
+
+@media screen and (max-width: 540px) {
+    .profile__title {
+        margin-left: 29px;
+    }
+}
