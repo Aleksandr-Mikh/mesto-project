@@ -15,21 +15,17 @@
 }
 
 .form__text::placeholder {
-    padding-left: 20px;
     color: #C4C4C4;
 }
 
 .form__text::-webkit-input-placeholder {
-    padding-left: 20px;
     color: #C4C4C4;
 }
 
 .form__text::-moz-placeholder {
-    padding-left: 20px;
     color: #C4C4C4;
 }
 
 .form__text::-ms-input-placeholder {
-    padding-left: 20px;
     color: #C4C4C4;
 }

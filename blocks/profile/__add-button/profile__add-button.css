@@ -10,6 +10,7 @@
     margin-left: auto;
     cursor: pointer;
     background-size: 22px 22px;
+    padding: 0;
 }
 
 .profile__add-button:hover {
